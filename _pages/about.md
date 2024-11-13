@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sungam is a professional software engineer."
+title: "Sungam is a professional software engineer!"
 author_profile: true
 redirect_from: 
   - /about/
